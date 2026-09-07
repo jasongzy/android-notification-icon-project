@@ -6,10 +6,34 @@
     "overlay": true,
     "contributors": "jasongzy"
   },
+  "com.github.catfriend1.syncthingandroid": {
+    "target": "com.nutomic.syncthingandroid",
+    "label": "Syncthing-Fork"
+  },
+  "net.dinglisch.android.taskerm": {
+    "label": "Tasker",
+    "format": "png",
+    "color": "#FB9719",
+    "overlay": false,
+    "contributors": "jasongzy"
+  },
   "com.keramidas.TitaniumBackup": {
-    "label": "钛备份",
+    "label": {
+      "en": "Titanium Backup",
+      "zh-CN": "钛备份"
+    },
     "format": "png",
     "color": "#FFC107",
+    "overlay": true,
+    "contributors": "jasongzy"
+  },
+  "com.jasongzy.databackup": {
+    "label": {
+      "en": "Iridium Backup",
+      "zh-CN": "铱备份"
+    },
+    "format": "png",
+    "color": "#4C009A",
     "overlay": true,
     "contributors": "jasongzy"
   },
