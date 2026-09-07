@@ -4907,5 +4907,34 @@
     "color": "#0055FF",
     "overlay": false,
     "contributors": "Taylorc0804"
+  },
+  "com.didi.es.psngr": {
+    "target": "com.sdu.didi.psnger",
+    "label": {
+      "en": "DiDi for Business",
+      "zh-CN": "滴滴企业版"
+    },
+    "overlay": false,
+    "contributors": "fankes, zweidyx"
+  },
+  "com.huawei.smarthome": {
+    "label": "智慧生活",
+    "format": "png",
+    "color": "#006BE4",
+    "overlay": false,
+    "contributors": "plplpmmmmh"
+  },
+  "com.box.app": {
+    "label": "Box",
+    "format": "png",
+    "color": "#000000",
+    "overlay": false,
+    "contributors": "plplpmmmmh"
+  },
+  "com.ss.android.lark.kacrc": {
+    "label": "润工作3.0",
+    "format": "png",
+    "overlay": false,
+    "contributors": "GOOOWEI"
   }
 }
