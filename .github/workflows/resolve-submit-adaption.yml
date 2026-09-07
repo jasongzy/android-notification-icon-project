@@ -164,6 +164,10 @@ jobs:
           } > "$RUNNER_TEMP/submit-adaption-error.md"
           gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/submit-adaption-error.md"
 
+      - name: Clear Submission Violation
+        if: steps.submission.outputs.valid == 'true'
+        run: gh issue edit "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --remove-label submit-adaption-violation
+
       - name: Force Refresh Signed Submission Commit
         if: steps.submission.outputs.valid == 'true'
         env:

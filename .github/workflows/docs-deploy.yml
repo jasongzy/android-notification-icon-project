@@ -14,6 +14,8 @@ on:
       - "sdk/settings.gradle.kts"
       - ".github/workflows/**"
       - "!.github/workflows/release-icon-resources.yml"
+      - "!.github/workflows/request-adaption.yml"
+      - "!.github/workflows/resolve-submit-adaption.yml"
       - "!.github/workflows/submit-adaption.yml"
 
 permissions:
