@@ -1,6 +1,10 @@
 name: Release Icon Resources
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "icons/**"
   workflow_call:
     inputs:
       sha:
