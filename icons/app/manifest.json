@@ -4946,5 +4946,19 @@
     "color": "#74AFFF",
     "overlay": false,
     "contributors": "fankes, Taylorc0804"
+  },
+  "cn.ticktick.task": {
+    "label": {
+      "en": "TickTick",
+      "zh-CN": "滴答清单"
+    },
+    "format": "png",
+    "color": "#4772FA",
+    "overlay": false,
+    "contributors": "fankes, VictoriousRaptor"
+  },
+  "com.ticktick.task": {
+    "target": "cn.ticktick.task",
+    "label": "TickTick"
   }
 }
