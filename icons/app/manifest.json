@@ -4960,5 +4960,25 @@
   "com.ticktick.task": {
     "target": "cn.ticktick.task",
     "label": "TickTick"
+  },
+  "com.szkj.smartwork.yunzj": {
+    "label": "量子办公",
+    "format": "png",
+    "color": "#0070FF",
+    "overlay": false,
+    "contributors": "fankes, zxygood"
+  },
+  "com.ss.android.merchant": {
+    "label": "抖店",
+    "format": "png",
+    "color": "#0050FF",
+    "overlay": false,
+    "contributors": "fankes, jbwjzcuv"
+  },
+  "com.cib.xyk": {
+    "label": "兴业生活",
+    "format": "png",
+    "overlay": false,
+    "contributors": "fankes, jbwjzcuv"
   }
 }
