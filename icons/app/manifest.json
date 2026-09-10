@@ -4980,5 +4980,40 @@
     "format": "png",
     "overlay": false,
     "contributors": "fankes, jbwjzcuv"
+  },
+  "com.ctq.qmchat": {
+    "label": "量子密信",
+    "format": "png",
+    "color": "#3375FD",
+    "overlay": false,
+    "contributors": "fankes, zxygood"
+  },
+  "com.yifu.hcm": {
+    "label": "E人事",
+    "format": "png",
+    "color": "#0A82F4",
+    "overlay": false,
+    "contributors": "fankes, zxygood"
+  },
+  "com.HuaXiaBank.HuaCard": {
+    "label": "华彩生活",
+    "format": "png",
+    "color": "#DC1218",
+    "overlay": false,
+    "contributors": "fankes, jbwjzcuv"
+  },
+  "com.galaxy.stock": {
+    "label": "银河证券",
+    "format": "png",
+    "color": "#EA1D2D",
+    "overlay": false,
+    "contributors": "fankes, lw-zg"
+  },
+  "com.wangc.bill": {
+    "label": "一木记账",
+    "format": "png",
+    "color": "#64CDB4",
+    "overlay": false,
+    "contributors": "fankes, lw-zg"
   }
 }
