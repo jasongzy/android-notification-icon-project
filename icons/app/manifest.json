@@ -4977,5 +4977,12 @@
     "color": "#64CDB4",
     "overlay": false,
     "contributors": "fankes, lw-zg"
+  },
+  "com.iflytek.oshall.ahzwfw": {
+    "label": "皖事通",
+    "format": "png",
+    "color": "#E30B20",
+    "overlay": false,
+    "contributors": "fankes, zxygood"
   }
 }
