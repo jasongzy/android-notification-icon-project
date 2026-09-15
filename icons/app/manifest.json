@@ -5022,5 +5022,12 @@
     "color": "#E30B20",
     "overlay": false,
     "contributors": "fankes, zxygood"
+  },
+  "com.szwl.lock": {
+    "label": "王力智家",
+    "format": "png",
+    "color": "#23B7D2",
+    "overlay": false,
+    "contributors": "fankes, Taylorc0804"
   }
 }
