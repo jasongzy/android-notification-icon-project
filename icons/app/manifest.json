@@ -5036,5 +5036,19 @@
     "color": "#F42A28",
     "overlay": false,
     "contributors": "oosl"
+  },
+  "com.svw.sc.mos": {
+    "label": "上汽大众",
+    "format": "png",
+    "color": "#11459A",
+    "overlay": false,
+    "contributors": "fankes, 770317429"
+  },
+  "com.cfmoto": {
+    "label": "ZEEHO",
+    "format": "png",
+    "color": "#EDFF00",
+    "overlay": false,
+    "contributors": "fankes, 770317429"
   }
 }
