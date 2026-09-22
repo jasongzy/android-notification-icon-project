@@ -5050,5 +5050,12 @@
     "color": "#EDFF00",
     "overlay": false,
     "contributors": "fankes, 770317429"
+  },
+  "com.saicmotor.mg": {
+    "label": "MG Live",
+    "format": "png",
+    "color": "#F94239",
+    "overlay": false,
+    "contributors": "fankes, 770317429"
   }
 }
