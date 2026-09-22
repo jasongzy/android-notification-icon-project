@@ -5057,5 +5057,19 @@
     "color": "#F94239",
     "overlay": false,
     "contributors": "fankes, 770317429"
+  },
+  "com.ss.android.ugc.lifeservices": {
+    "label": "抖省省",
+    "format": "png",
+    "color": "#FE2C55",
+    "overlay": false,
+    "contributors": "fankes, 770317429"
+  },
+  "com.duozhuayu.dejavu": {
+    "label": "多抓鱼",
+    "format": "png",
+    "color": "#212121",
+    "overlay": false,
+    "contributors": "fankes, Taylorc0804"
   }
 }
